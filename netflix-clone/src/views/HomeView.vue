@@ -47,7 +47,6 @@
 <script>
 import { ref } from 'vue';
 import env from '@/env.js';
-
 export default {
 	setup() {
 		const search = ref('');
